@@ -16,17 +16,7 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
-Business/Host/archives/
-Business/Host/App_Data/
-Presentation/Host/archives/
-Presentation/Host/App_Data/
-Presentation/Identity/archives/
 .idea/
-Business/Host/*.svclog
-Presentation/Host/*.svclog
-Business/Host/App_Data/Logs/
-Presentation/Host/App_Data/Logs/
-Presentation/Identity/App_Data/Logs/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -111,11 +101,6 @@ publish/
 
 # NuGet Packages Directory
 packages/
-!packages/KendoUI/
-!packages/Aspose/
-!packages/T4Scaffolding.1.0.8/
-!packages/T4Scaffolding.Core.1.0.0/
-!packages/repositories.config
 
 # Windows Azure Build Output
 csx
